@@ -1,0 +1,26 @@
+body{
+	background-repeat: no-repeat;background-size: 100% ;
+}
+
+#title{
+	text-align: center;
+}
+
+.form-input{
+	padding: 1%; 
+	border: 2px solid black;
+    margin: 1%;
+    border-radius: 5px;
+}
+form{
+	text-align: center;
+}
+
+.button{
+	border:none;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	width: 160px;
+	border-radius: 5px;
+}
